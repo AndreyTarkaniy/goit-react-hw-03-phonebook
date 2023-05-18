@@ -9,6 +9,8 @@
 
   width: 400px;
   margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px;
 
   outline: 3px solid rgb(50, 4, 71);
